@@ -10,3 +10,5 @@ This is a library management system made using Java Swing and in Eclipse IDE. It
 6) To update the personal information of the members
 
 Currently it does not have any authentication system but can be implemented upon requirement.
+
+<img src="Lend.jpg>
