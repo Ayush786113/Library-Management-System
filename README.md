@@ -11,6 +11,10 @@ This is a library management system made using Java Swing and in Eclipse IDE. It
 
 Currently it does not have any authentication system but can be implemented upon requirement.
 
+Get the software for local testing in this link: https://drive.google.com/file/d/1mqMxCTq9r_hGzzLn6JvZQTurB8S3uNzV/view?usp=sharing
+
+Note: The background is not bundled with the package and the animation too so it may not appear in your local system.
+
 Some screenshots of the project is listed below:
 ![alt text](https://github.com/Ayush786113/Library-Management-System/blob/main/library%20intro.png)
 ![alt text](https://github.com/Ayush786113/Library-Management-System/blob/main/Main.png?raw=true)
